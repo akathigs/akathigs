@@ -6,7 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiiago-souza/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thiawk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akathigs&show_icons=true&theme=dracula)
 
 ## Tecnologias que estudo atualmente
 
